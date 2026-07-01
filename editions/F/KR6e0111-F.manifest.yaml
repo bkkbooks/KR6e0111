@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0111/F/v1
+canonical_location: https://kanripo.org/bkk/KR6e0111/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一乘法界圖合詩一印
+  identifiers:
+    krp: KR6e0111
+    cbeta: F28n1081
+    cbeta_old_id: F28n1081
+    authorityid: CA0008085
+    json_key: F1081
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F28/F28n1081.xml
+    old_id: F28n1081
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0111_000-F.yaml, hash: 'sha256:2649992c5279195fe3129e40433667b9ed41edd2e7c48ba22ba8315f0b4e23fb'}
+  - {seq: 1, filename: KR6e0111_001-F.yaml, hash: 'sha256:5723da3157a0cc980c336b2b64ed455799c44facbf67378b5fa0abb8be30fe1b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0111_000-F.markers.yaml, hash: 'sha256:16cba7d445eff268dab99a3032349fabecd3f2dd6adee625e8ae7f6da235eccc'}
+  - {seq: 1, role: markers, filename: assets/KR6e0111_001-F.markers.yaml, hash: 'sha256:5075c35ed521d6346d805aa5250dc27dd4b5258aaa20b466e4a263ba19fcf161'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0111_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 287
+  label: 一乘法界圖合詩一印五十四角二百一十字
+  type: juan
+  level: 1
+hash: sha256:ac4857a94cbaac909c89b54b447d203445a322ca1bf47447bacc224c3f392d52

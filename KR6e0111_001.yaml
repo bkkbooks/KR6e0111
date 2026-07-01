@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6e0111/f/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫大聖善巧無方應機隨病非一迷之者守迹不知失體勤而歸宗未日故依理據教略製盤詩冀以執名之徒還歸無名之真源讀詩之法宜從中法為始盤回屈曲乃至佛為終隨印道讀儼法師造死涅盤常共和是故界實寶殿窮坐生意如出盤理益行法意如捉巧實覺不智境中事利者嚴歸資糧善際正思大能昧冥得還莊家得以緣中便議賢仁三然器本寶隨分陀無道時雨普海印無隨際盡無尼羅得床心寶佛十別分生叵息妄想必不舊發益生滿虛空衆法佛為名動不來初成別隔亂雜不性餘境妙不守自十方一切塵中仍圓非真微無名性含即念一念亦即融知性極相無隨中是劫即一如相無所甚深絶寂緣塵無遠量無是互二智證切一來成微量劫九世十世相諸法不動本一一一即多切一即一一中多切一中
+  hash: sha256:8be6343a863c996587c1fb1ff2d03d7c9eedec946c425f99d778924ee1e2be02
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 一乘法界圖合詩一印五十四角二百一十字, id: KR6e0111_F_001-juan-start, juan_n: '001', jhead: 一乘法界圖合詩一印五十四角二百一十字}
+metadata:
+  title: 一乘法界圖合詩一印
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F28/F28n1081.xml
+    old_id: F28n1081
+hash: sha256:be0890a655cc8fb4fe962fef00e339cd81a15af30b459745a24c1a5aedf24fd8

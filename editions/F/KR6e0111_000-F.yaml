@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0111/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一乘法界圖合詩一印
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F28/F28n1081.xml
+    old_id: F28n1081
+hash: sha256:2649992c5279195fe3129e40433667b9ed41edd2e7c48ba22ba8315f0b4e23fb
