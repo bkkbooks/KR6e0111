@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6e0111_000.yaml, hash: 'sha256:2649992c5279195fe3129e40433667b9ed41edd2e7c48ba22ba8315f0b4e23fb'}
-  - {seq: 1, filename: KR6e0111_001.yaml, hash: 'sha256:be0890a655cc8fb4fe962fef00e339cd81a15af30b459745a24c1a5aedf24fd8'}
+  - {seq: 1, filename: KR6e0111_001.yaml, hash: 'sha256:5723da3157a0cc980c336b2b64ed455799c44facbf67378b5fa0abb8be30fe1b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0111_001.markers.yaml, hash: 'sha256:80c45ec2947c44575707c61c0728f263a8287a93e258e8b63ef7e269125f7447'}
+  - {seq: 0, role: markers, filename: assets/KR6e0111_000.markers.yaml, hash: 'sha256:3c7b92af9213c80a89e4cd5fcacd7cc013039101eb8dc1d19f0c085255e51c0c'}
+  - {seq: 1, role: markers, filename: assets/KR6e0111_001.markers.yaml, hash: 'sha256:465c426d137b4c8640f0c5bc8d69f90b9d511879dfa9a51fbae4a2d714d444e6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 一乘法界圖合詩一印五十四角二百一十字
   type: juan
   level: 1
-hash: sha256:2c001cab6b8cf55c3e9917d1a92f450f04e72bec3dd8cfd11367ffd739aaa57e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ca736b1e1fb5cc82b0765465535d3d27be608560d08d6cac81d52a1cef4636b0
